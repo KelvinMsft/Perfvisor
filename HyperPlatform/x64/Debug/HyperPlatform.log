@@ -1,0 +1,24 @@
+﻿  Building 'HyperPlatform' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PerfVisor.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Stamping x64\Debug\HyperPlatform.inf [Version] section with DriverVer=03/15/2020,21.40.23.287
+  Assembling Arch\x64\x64.asm...
+  Assembling Arch\x86\x86.asm...
+  HyperPlatform.vcxproj -> C:\github\Perfvisor\x64\Debug\HyperPlatform.sys
+  HyperPlatform.vcxproj -> C:\github\Perfvisor\x64\Debug\HyperPlatform.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\github\Perfvisor\x64\Debug\HyperPlatform.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\github\Perfvisor\x64\Debug\HyperPlatform\hyperplatform.cat
+  Done Adding Additional Store
+  Successfully signed: C:\github\Perfvisor\x64\Debug\HyperPlatform\hyperplatform.cat
+  
